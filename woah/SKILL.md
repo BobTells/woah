@@ -128,6 +128,6 @@ Either way, the HTML is the durable reference; step 6 is the take-away.
 
 ## Install
 
-**Claude Code:** copy this `woah/` folder into `~/.claude/skills/`. Or simply tell Claude: *"Install the woah skill from github.com/BobTells/Socrates into my .claude/skills folder."*
+**Claude Code:** copy this `woah/` folder into `~/.claude/skills/`. Or simply tell Claude: *"Install the woah skill from github.com/BobTells/woah into my .claude/skills folder."*
 
 **Claude.ai / Desktop:** zip the contents of `woah/` (so `SKILL.md` sits at the zip root), rename to `woah.skill`, upload as a custom skill.

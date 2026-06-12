@@ -28,7 +28,7 @@ Application — how it applies to your codebase
 Install
 
 Claude Code
-Tell Claude: "Install the woah skill from github.com/BobTells/Socrates into my .claude/skills folder."
+Tell Claude: "Install the woah skill from github.com/BobTells/woah into my .claude/skills folder."
 Then restart Claude Code and run /woah.
 
 Claude.ai / Claude Desktop
