@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Early prototype.** A personal experiment, shared rough — expect sharp edges and breaking changes.
+
 /woah
 
 A Socratic learning loop for vibe coding.
